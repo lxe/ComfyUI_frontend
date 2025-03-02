@@ -80,6 +80,13 @@
     "choose_file_to_upload": "choose file to upload",
     "capture": "capture"
   },
+  "clientLogs": {
+    "title": "Client Logs",
+    "clear": "Clear Logs",
+    "toggleAutoScroll": "Toggle Auto-scroll",
+    "toggleWebSocket": "Toggle WebSocket Logs",
+    "toggleApi": "Toggle API Logs"
+  },
   "issueReport": {
     "submitErrorReport": "Submit Error Report (Optional)",
     "provideEmail": "Give us your email (optional)",
@@ -333,6 +340,11 @@
         "bookmarks": "Bookmarks",
         "open": "Open"
       }
+    },
+    "stackWorkflow": "Stack Workflow",
+    "stackWorkflowTab": {
+      "title": "Stack Workflow",
+      "description": "View workflow nodes in a stack-based layout"
     }
   },
   "menu": {
